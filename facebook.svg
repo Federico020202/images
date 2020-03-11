@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="52px" viewBox="0 0 256 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facebook" transform="translate(0.000000, 0.751381)">
+            <rect id="Rectangle" fill="#3B5999" x="0" y="0" width="256" height="51" rx="17.5"></rect>
+            <text id="Sign-in" fill="#FFFFFF" font-family="Helvetica" font-size="18" font-weight="normal" letter-spacing="-0.030312">
+                <tspan x="120.764937" y="34.1428571">Sign</tspan>
+                <tspan x="156.670056" y="34.1428571" font-family="AlTarikh, Al Tarikh"> </tspan>
+                <tspan x="159.473767" y="34.1428571">in</tspan>
+                <tspan x="173.422909" y="34.1428571" font-family="AlTarikh, Al Tarikh"> </tspan>
+            </text>
+            <g id="facebook-2" stroke-width="1" transform="translate(16.972376, 2.914286)">
+                <path d="M38.3646409,0 L5.48066298,0 C2.4571639,0 0,2.53148214 0,5.64642857 L0,39.525 C0,42.6380643 2.4571639,45.1714286 5.48066298,45.1714286 L38.3646409,45.1714286 C41.3863131,45.1714286 43.8453039,42.6380643 43.8453039,39.525 L43.8453039,5.64642857 C43.8453039,2.53148214 41.3863131,0 38.3646409,0 Z" id="Path" fill="#3B5999" fill-rule="nonzero"></path>
+                <path d="M30.1731123,21.8571429 L30.1731123,16.0285714 C30.1731123,14.4198857 31.3558983,14.5714286 32.8132597,14.5714286 L35.453407,14.5714286 L35.453407,7.28571429 L30.1731123,7.28571429 C25.7975082,7.28571429 22.2526703,11.1986286 22.2526703,16.0285714 L22.2526703,21.8571429 L16.9723757,21.8571429 L16.9723757,29.1428571 L22.2526703,29.1428571 L22.2526703,45.1714286 L30.1731123,45.1714286 L30.1731123,29.1428571 L34.1333333,29.1428571 L36.7734807,21.8571429 L30.1731123,21.8571429 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
